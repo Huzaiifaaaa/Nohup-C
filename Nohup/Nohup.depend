@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652283774 source:c:\users\huzai\documents\github\nohup-c-fiverr-22\nohup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/file.h>
+	<sys/types.h>
+	<malloc.h>
+	<unistd.h>
+	<dirent.h>
+	<process.h>
+	<wchar.h>
+	<direct.h>
+	<fcntl.h>
+	<signal.h>
+
